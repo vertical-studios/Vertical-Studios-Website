@@ -1,0 +1,121 @@
+{
+  "title": "Marketing Strategy and Fractional CMO | Vertical Studios",
+  "description": "Your fractional CMO plus the team to run it. We set goals for the year, define your audience and choose the two or three channels that matter.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Services",
+      "headline": "Plan first. Then execute.",
+      "body": "Most marketing fails because nobody decided what it was supposed to do. We build the plan first. Then we execute it. Think of us as your fractional CMO plus the team to run it.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "See our work",
+          "href": "/work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "What's included",
+      "body": "A plan you can read in one sitting. And a team that carries it out.",
+      "style": "plain",
+      "items": [
+        {
+          "title": "Goals for the year",
+          "body": "We start with one question: what does winning look like for you this year? Then we write the answer in numbers you can track."
+        },
+        {
+          "title": "A defined audience",
+          "body": "Who you need to reach, what they care about and what moves them to act. Specific enough to write for."
+        },
+        {
+          "title": "The two or three channels",
+          "body": "The channels that actually matter for your business. And permission to ignore the rest."
+        },
+        {
+          "title": "A written plan",
+          "body": "Goals, audience, channels and messages in one document. Your whole team can see where we're headed."
+        },
+        {
+          "title": "Fractional CMO leadership",
+          "body": "A senior marketer in your corner. We review results with you and adjust the plan as the year unfolds."
+        },
+        {
+          "title": "The team to run it",
+          "body": "Design, social, video, websites and automation from one team. The plan doesn't sit in a drawer."
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "How planning works",
+      "tone": "black",
+      "body": "Four steps from the first call to a plan in motion.",
+      "items": [
+        "Intro call: a short conversation with Gabe about your organization, your year and what's working now.",
+        "What winning looks like: we agree on the goals that matter most, then build backward from there.",
+        "The plan: your audience, your two or three channels and what we'll make for each, in writing.",
+        "Launch and run: your senior lead and the apprentice crew carry it out, report back and adjust."
+      ]
+    },
+    {
+      "_template": "richText",
+      "heading": "Who's in your corner",
+      "tone": "red",
+      "body": "A senior marketer owns your strategy. That's the fractional CMO part. Our leads come from agency, nonprofit and in-house backgrounds.\n\nBrian Wheeler, our Chief Vision Officer, serves as the voice of the client. He draws on his own experience as an entrepreneur to help you set priorities.\n\nBehind them, apprentices from Vertical Immersive produce the work under direct supervision. That's the team to run it.",
+      "buttons": [
+        {
+          "label": "Meet the team",
+          "href": "/team",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "faq",
+      "heading": "Strategy questions",
+      "items": [
+        {
+          "question": "Do you only write plans, or do you carry them out?",
+          "answer": "Both. We build the plan, then our team runs it with you: design, social, video, websites and automation. If you have people in-house, we plan around them."
+        },
+        {
+          "question": "What does a fractional CMO cost?",
+          "answer": "It depends on scope. Every engagement is custom, so we start with a short call. Then we put together a plan and a proposal built around your goals. [Book a call](/book-a-call)."
+        },
+        {
+          "question": "How long does planning take?",
+          "answer": "It depends on scope and how much is already in place. After the intro call, we'll give you a clear picture of what the work involves."
+        },
+        {
+          "question": "We're a nonprofit. Does this still apply?",
+          "answer": "Yes. A nonprofit still needs a clear goal, a defined audience and the right two or three channels. We work with businesses and nonprofits across Indiana and beyond."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Start with one question",
+      "tone": "black",
+      "body": "What does winning look like for you this year? Bring your answer, or bring the question. Gabe will set up a short call.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

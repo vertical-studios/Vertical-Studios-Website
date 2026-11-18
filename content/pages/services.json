@@ -1,0 +1,116 @@
+{
+  "title": "Marketing Services in Indianapolis | Vertical Studios",
+  "description": "Strategy, design, social media, video, websites and HighLevel automation, custom-built around your goals for the year. Senior-led, apprentice-powered.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Services",
+      "headline": "Marketing custom-built to your goals",
+      "body": "A full marketing team for Kingdom-minded businesses and nonprofits. Strategy, design, social, video, websites and automation, built around what you need this year.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "See our work",
+          "href": "/work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "richText",
+      "heading": "What does winning look like for you this year?",
+      "tone": "black",
+      "body": "Every engagement starts with that question. Then we build backward from there.\n\nNot how many posts. Not which app everyone is talking about. A goal you can name for the year in front of you. Then the audience that decides it. The two or three channels that matter. The work that gets you there.\n\nThat's why nothing here comes off a shelf. Every engagement is custom and starts with a short call."
+    },
+    {
+      "_template": "cards",
+      "heading": "Six services. One team.",
+      "body": "Hire us for one or put several together. The plan decides what you need.",
+      "style": "boxed",
+      "items": [
+        {
+          "eyebrow": "Fractional CMO",
+          "title": "Strategy and planning",
+          "body": "Most marketing fails because nobody decided what it was supposed to do. We build the plan first, then run it with you.",
+          "linkLabel": "See strategy and planning",
+          "linkHref": "/strategy-and-planning"
+        },
+        {
+          "eyebrow": "Print and brand",
+          "title": "Graphic design",
+          "body": "Sales sheets, event materials, print collateral and brand systems. A mismatched deck undoes a great pitch.",
+          "linkLabel": "See graphic design",
+          "linkHref": "/graphic-design"
+        },
+        {
+          "eyebrow": "Plan, produce, manage",
+          "title": "Social media",
+          "body": "Content that keeps you in front of the right people. So they already know you when they're ready to buy.",
+          "linkLabel": "See social media",
+          "linkHref": "/social-media"
+        },
+        {
+          "eyebrow": "Concept to final cut",
+          "title": "Video production",
+          "body": "Brand films, testimonials, service explainers, event recaps and short-form cuts. We script, shoot and edit.",
+          "linkLabel": "See video production",
+          "linkHref": "/video-production"
+        },
+        {
+          "eyebrow": "Audit, fix, build",
+          "title": "Websites",
+          "body": "Your website has one job: help the right person decide you're the answer. We make sure it does.",
+          "linkLabel": "See websites",
+          "linkHref": "/websites"
+        },
+        {
+          "eyebrow": "Inside HighLevel",
+          "title": "Marketing automation",
+          "body": "CRM, pipelines and follow-up that run on their own. Every lead routed, tagged, followed up with and tracked.",
+          "linkLabel": "See marketing automation",
+          "linkHref": "/marketing-automation"
+        }
+      ]
+    },
+    {
+      "_template": "richText",
+      "heading": "Senior-led. Apprentice-powered.",
+      "tone": "red",
+      "body": "Whatever you hire us for, the model stays the same. A senior marketer leads your account. Apprentices from Vertical Immersive produce the work under direct supervision.\n\nYou get senior thinking and a full crew. Your budget builds careers, not just campaigns.",
+      "buttons": [
+        {
+          "label": "How we work",
+          "href": "/how-we-work",
+          "style": "secondary"
+        },
+        {
+          "label": "Meet the team",
+          "href": "/team",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Not sure which service you need?",
+      "tone": "black",
+      "body": "That's what the first call is for. Tell Gabe what winning looks like this year. We'll point you to the right mix.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

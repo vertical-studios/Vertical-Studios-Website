@@ -1,0 +1,181 @@
+{
+  "logo": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/33a6f72a-12cd-4c9a-adf5-c0ee82ed642c/White+%26+Yellow+Horizontal.png",
+  "logoStacked": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/33a6f72a-12cd-4c9a-adf5-c0ee82ed642c/White+%26+Yellow+Horizontal.png",
+  "favicon": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/bab5b690-7d95-4922-8002-eb1e9e77d35b/favicon.ico",
+  "ogImage": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/073f8eaa-263a-48ef-bf0a-0ba28569e450/verticalmountaincropped2.jpg?format=1500w",
+  "nav": [
+    {
+      "label": "Services",
+      "links": [
+        {
+          "label": "All services",
+          "href": "/services"
+        },
+        {
+          "label": "Strategy and planning",
+          "href": "/strategy-and-planning"
+        },
+        {
+          "label": "Graphic design",
+          "href": "/graphic-design"
+        },
+        {
+          "label": "Social media",
+          "href": "/social-media"
+        },
+        {
+          "label": "Video production",
+          "href": "/video-production"
+        },
+        {
+          "label": "Websites",
+          "href": "/websites"
+        },
+        {
+          "label": "Marketing automation",
+          "href": "/marketing-automation"
+        }
+      ]
+    },
+    {
+      "label": "Work",
+      "href": "/work"
+    },
+    {
+      "label": "How we work",
+      "href": "/how-we-work"
+    },
+    {
+      "label": "About",
+      "links": [
+        {
+          "label": "About Studios",
+          "href": "/about"
+        },
+        {
+          "label": "Team",
+          "href": "/team"
+        },
+        {
+          "label": "Insights",
+          "href": "/blog"
+        },
+        {
+          "label": "Contact",
+          "href": "/book-a-call"
+        }
+      ]
+    }
+  ],
+  "navCta": {
+    "label": "Book a call",
+    "short": "Book",
+    "href": "/book-a-call"
+  },
+  "tagline": "Senior-led. Apprentice-powered.",
+  "address": "10330 N Meridian St, Ste 300, Indianapolis, IN 46290",
+  "phone": "463-285-8785",
+  "email": "studios@thevertical.life",
+  "footerLinks": [
+    {
+      "section": "Services",
+      "label": "Strategy and planning",
+      "href": "/strategy-and-planning"
+    },
+    {
+      "section": "Services",
+      "label": "Graphic design",
+      "href": "/graphic-design"
+    },
+    {
+      "section": "Services",
+      "label": "Social media",
+      "href": "/social-media"
+    },
+    {
+      "section": "Services",
+      "label": "Video production",
+      "href": "/video-production"
+    },
+    {
+      "section": "Services",
+      "label": "Websites",
+      "href": "/websites"
+    },
+    {
+      "section": "Services",
+      "label": "Marketing automation",
+      "href": "/marketing-automation"
+    },
+    {
+      "section": "Studio",
+      "label": "Work",
+      "href": "/work"
+    },
+    {
+      "section": "Studio",
+      "label": "How we work",
+      "href": "/how-we-work"
+    },
+    {
+      "section": "Studio",
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "section": "Studio",
+      "label": "Team",
+      "href": "/team"
+    },
+    {
+      "section": "Studio",
+      "label": "Insights",
+      "href": "/blog"
+    }
+  ],
+  "social": [
+    {
+      "label": "Facebook",
+      "href": "https://www.facebook.com/verticalstudiosofficial/"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/verticalstudiosofficial/"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/company/vertical-studios-official"
+    },
+    {
+      "label": "YouTube",
+      "href": "https://www.youtube.com/@VerticalStudiosOfficial"
+    }
+  ],
+  "legal": [
+    {
+      "label": "Privacy policy",
+      "href": "/privacy-policy"
+    },
+    {
+      "label": "Terms of service",
+      "href": "/terms-of-service"
+    }
+  ],
+  "family": [
+    {
+      "label": "Vertical Life",
+      "href": "https://thevertical.life",
+      "logo": "https://images.squarespace-cdn.com/content/v1/6628083a88405b4d0f29bf6f/375f3854-3eb0-4eea-9c20-f84e2037de9e/VL+white+bold+yellow+horizontal.png?format=750w"
+    },
+    {
+      "label": "Vertical Immersive",
+      "href": "https://www.verticalimmersive.life/",
+      "logo": "https://images.squarespace-cdn.com/content/v1/667c450ccef1c76b7cebfd4c/2e824f74-41c8-4889-ba82-b4ec779676ad/VI+white+bold+yellow+horizontal.png?format=750w"
+    },
+    {
+      "label": "Vertical Wealth",
+      "href": "https://www.verticalwealth.life/",
+      "logo": "https://images.squarespace-cdn.com/content/v1/6628083a88405b4d0f29bf6f/c61507fa-ebab-4c81-9ddf-7d704fdd3902/VW+white+bold+yellow+horizontal.png?format=750w"
+    }
+  ]
+}

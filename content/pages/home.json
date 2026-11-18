@@ -1,0 +1,253 @@
+{
+  "title": "Kingdom-Minded Marketing in Indianapolis | Vertical Studios",
+  "description": "A full marketing team for Kingdom-minded businesses: strategy, design, social, video, websites and automation, senior-led and apprentice-powered.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Your marketing team",
+      "headline": "Kingdom-minded marketing for Kingdom-minded businesses",
+      "body": "A full marketing team, led by senior marketers and produced by apprentices we're training for a life of purpose. Your growth funds their calling.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "See our work",
+          "href": "/work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "logos",
+      "heading": "Trusted by businesses and nonprofits across Indiana and beyond",
+      "tone": "black",
+      "items": [
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/bcc2ac5d-3e39-4d36-97a1-30d2d0d26f14/bgw.png",
+          "name": "BGW Construction"
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/0ffe39ff-6f80-4ef5-9974-b6aba746c24f/isilogo.jpg",
+          "name": "ISI Construction"
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/d6aa77d5-ec32-4664-a445-aa19181b797c/Ash+and+Oak.jpg",
+          "name": "Ash & Oak Weddings"
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/0e2daa64-a6db-441a-8e15-0d5e4aa6b9b2/Miracle+Mascot.png",
+          "name": "Miracle Mascot Summer Camp"
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/323244ca-2b17-4216-a1ba-9610fb29f5c6/outreach.jpg",
+          "name": "Outreach"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "Everything a marketing team does",
+      "style": "boxed",
+      "body": "Every engagement starts with the same question: what does winning look like for you this year? Then we build backward from there.",
+      "items": [
+        {
+          "title": "Strategy and planning",
+          "body": "Your fractional CMO plus the team to run it. We decide what the marketing is for before we make any.",
+          "linkLabel": "Strategy and planning",
+          "linkHref": "/strategy-and-planning"
+        },
+        {
+          "title": "Graphic design",
+          "body": "Sales sheets, event materials, print and brand systems that match the quality of your work.",
+          "linkLabel": "Graphic design",
+          "linkHref": "/graphic-design"
+        },
+        {
+          "title": "Social media",
+          "body": "Planned, produced and managed, so your brand stays familiar until people are ready to buy.",
+          "linkLabel": "Social media",
+          "linkHref": "/social-media"
+        },
+        {
+          "title": "Video production",
+          "body": "Concept, script, shoot and edit: brand films, testimonials, explainers and short-form cuts.",
+          "linkLabel": "Video production",
+          "linkHref": "/video-production"
+        },
+        {
+          "title": "Websites",
+          "body": "One job: help the right person decide you're the answer. We audit, fix and build.",
+          "linkLabel": "Websites",
+          "linkHref": "/websites"
+        },
+        {
+          "title": "Marketing automation",
+          "body": "CRM, pipelines and follow-up inside HighLevel, so every lead is routed, tagged and tracked.",
+          "linkLabel": "Marketing automation",
+          "linkHref": "/marketing-automation"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Senior-led. Apprentice-powered.",
+      "tone": "red",
+      "body": "Every account is run by experienced marketers with agency, nonprofit and in-house backgrounds. Behind them is a bench of apprentices from Vertical Immersive, a faith-focused higher education program, handling production under direct supervision.\n\nYou get senior thinking and a full production crew. They get real work with real stakes. Your budget builds careers, not just campaigns.",
+      "bullets": [
+        "A senior marketer leads every account",
+        "Apprentices produce under direct supervision",
+        "Strategy, content and systems from one team"
+      ],
+      "buttons": [
+        {
+          "label": "How we work",
+          "href": "/how-we-work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "Selected work",
+      "style": "boxed",
+      "body": "We run marketing for the companies of Vertical Life every day. Here's what that looks like.",
+      "items": [
+        {
+          "eyebrow": "Coworking and ecosystem",
+          "title": "Vertical Life",
+          "body": "Search campaigns for the Atrium, conversion tracking, event templates and a new website the team can edit in place.",
+          "linkLabel": "Read the case study",
+          "linkHref": "/work#vertical-life"
+        },
+        {
+          "eyebrow": "Higher education",
+          "title": "Vertical Immersive",
+          "body": "Open house campaigns, ad lead forms wired straight into HighLevel, and a rebuilt website.",
+          "linkLabel": "Read the case study",
+          "linkHref": "/work#vertical-immersive"
+        },
+        {
+          "eyebrow": "Financial planning",
+          "title": "Vertical Wealth",
+          "body": "A campaign playbook built on five client personas, compliance-safe content rules and a new website.",
+          "linkLabel": "Read the case study",
+          "linkHref": "/work#vertical-wealth"
+        }
+      ],
+      "buttons": [
+        {
+          "label": "See all work",
+          "href": "/work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "How we start",
+      "tone": "black",
+      "body": "No long discovery phase. A short call, a clear goal, then a plan you can see.",
+      "items": [
+        "Intro call: a short conversation with Gabe about your organization and what success looks like.",
+        "What winning looks like: we agree on your goals for the year, then build backward from there.",
+        "The plan: your audience and the two or three channels that actually matter for your business.",
+        "Launch and run: a senior lead and the apprentice crew produce, publish and report back."
+      ],
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "Who you'll work with",
+      "style": "boxed",
+      "items": [
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/98ca63ec-d2ae-4011-90cc-024bac695a95/Wheeler_Gabriel_Headshot.png",
+          "imageAlt": "Gabe Wheeler",
+          "eyebrow": "Studio Manager",
+          "title": "Gabe Wheeler",
+          "body": "Your day-to-day contact. Gabe leads the studio team and makes sure every deliverable lands. His engineering background makes him a systems thinker."
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/73d5f733-b0e9-4f39-b38e-f16c0cf78a1d/16.jpg",
+          "imageAlt": "Jen Fox",
+          "eyebrow": "Creative Director",
+          "title": "Jen Fox",
+          "body": "A former mid-size agency owner with more than 25 years of experience. Jen holds the work to our standard and teaches visual communications at Vertical Immersive."
+        }
+      ],
+      "buttons": [
+        {
+          "label": "Meet the team",
+          "href": "/team",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Your growth funds their calling",
+      "tone": "red",
+      "body": "Vertical Studios exists inside Vertical Life, an ecosystem of businesses built to further God's Kingdom. We're the place where students from Vertical Immersive do real work for real clients with real deadlines.\n\nYou get marketing that grows your business. They get the skills, character and confidence to serve Christ in whatever room they end up in.",
+      "buttons": [
+        {
+          "label": "About Studios",
+          "href": "/about",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "faq",
+      "heading": "Questions",
+      "items": [
+        {
+          "question": "Who actually does the work?",
+          "answer": "A senior marketer leads every account and owns the strategy. Apprentices from Vertical Immersive handle production under direct supervision, and our creative director reviews the work before it goes out."
+        },
+        {
+          "question": "What does it cost?",
+          "answer": "Every engagement is custom. After a short call, we put together a plan and a proposal built around your goals for the year."
+        },
+        {
+          "question": "Can you take on just one project?",
+          "answer": "Yes. Some clients start with a website or a video and grow from there. [Book a call](/book-a-call) and tell us what you need."
+        },
+        {
+          "question": "Where are you based?",
+          "answer": "At the Atrium, 10330 N Meridian St, Suite 300, in Indianapolis. We work with businesses and nonprofits across Indiana and beyond."
+        },
+        {
+          "question": "What do you use for CRM and automation?",
+          "answer": "HighLevel. We build your pipelines, forms and follow-up there, so every lead is routed, tagged and tracked. See [marketing automation](/marketing-automation)."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "What does winning look like for you?",
+      "tone": "black",
+      "body": "Tell us about your organization. Gabe will set up a short call to talk it through.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

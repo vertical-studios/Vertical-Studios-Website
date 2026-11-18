@@ -1,0 +1,108 @@
+{
+  "title": "Graphic Design and Print Collateral | Vertical Studios",
+  "description": "Sales sheets, event materials, print collateral, pitch decks and brand systems that match the quality of your work. Reviewed by our creative director.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Services",
+      "headline": "First impressions are visual",
+      "body": "Sales sheets, event materials, print collateral, brand systems. A mismatched deck undoes a great pitch. We make your materials look as good as your work.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "All services",
+          "href": "/services",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "What we make",
+      "tone": "black",
+      "body": "Everything you hand over, hang up or put on a screen.",
+      "style": "plain",
+      "items": [
+        {
+          "title": "Sales sheets",
+          "body": "One page that explains what you do and why it matters. Easy to scan, with a clear next step."
+        },
+        {
+          "title": "Event materials",
+          "body": "Signage, handouts and displays for conferences, open houses and fundraisers. Built to read from across the room."
+        },
+        {
+          "title": "Print collateral",
+          "body": "Brochures, flyers, postcards and mailers that look like they came from the same company. Because they did."
+        },
+        {
+          "title": "Pitch decks",
+          "body": "Slides that support the pitch instead of undercutting it. Plus a template your team can reuse."
+        },
+        {
+          "title": "Brand systems",
+          "body": "Logo use, colors, type and templates, written down. So everything stays on brand, whoever makes it."
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "How a design project runs",
+      "tone": "red",
+      "body": "Every piece starts with what it needs to do. Then we make it look right.",
+      "items": [
+        "Intro call: tell Gabe what you need, who will see it and where it will be used.",
+        "What it needs to do: win the meeting, fill the booth or explain the offer. We agree on that first.",
+        "Concepts: we design against your brand and the goal, then refine with your feedback.",
+        "Final files: print-ready and digital versions, organized so the next piece starts ahead."
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Reviewed by a creative director",
+      "body": "Jen Fox is a former mid-size agency owner with more than 25 years of experience. She makes sure our work meets your marketing goals and our standard for quality.\n\nApprentices from Vertical Immersive design under her direct supervision. Jen also teaches visual communications at Vertical Immersive.",
+      "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/73d5f733-b0e9-4f39-b38e-f16c0cf78a1d/16.jpg",
+      "imageAlt": "Jen Fox, Creative Director at Vertical Studios",
+      "imageSide": "left"
+    },
+    {
+      "_template": "faq",
+      "heading": "Design questions",
+      "tone": "black",
+      "items": [
+        {
+          "question": "Can you work within our existing brand?",
+          "answer": "Yes. If your brand is working, we design inside it. If it isn't, we'll say so and show you what a brand system would fix."
+        },
+        {
+          "question": "Do you design for print and digital?",
+          "answer": "Both. Most pieces need print-ready files and screen versions. We deliver what each piece needs."
+        },
+        {
+          "question": "What does design cost, and how fast is it?",
+          "answer": "Both depend on scope. One sales sheet and a full brand system are very different projects. Every engagement is custom and starts with a short call. [Book a call](/book-a-call)."
+        },
+        {
+          "question": "Can we start with just one piece?",
+          "answer": "Yes. A single sales sheet is a fine place to start. [Book a call](/book-a-call) and tell us what you need."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Make the deck match the pitch",
+      "body": "Tell us what you're putting in front of people. Gabe will set up a short call.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        }
+      ]
+    }
+  ]
+}

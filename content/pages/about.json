@@ -1,0 +1,116 @@
+{
+  "title": "About Studios: Part of Vertical Life | Vertical Studios",
+  "description": "Vertical Studios is the marketing team inside Vertical Life, giving Vertical Immersive students real client work. Your growth funds their calling.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Our vision",
+      "headline": "Working to further God's Kingdom",
+      "body": "Vertical Studios is one piece of a network of organizations focused on growing God's Kingdom. We serve Kingdom-minded businesses and nonprofits. And we train the next generation while we do it.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Meet the team",
+          "href": "/team",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Studios lives inside Vertical Life",
+      "tone": "red",
+      "body": "Vertical Life is an ecosystem of businesses built to further God's Kingdom. Studios is its marketing team.\n\nFor businesses and nonprofits, we're a full marketing team: strategy, design, social, video, websites and automation. Senior marketers lead every account. Apprentices produce the work under direct supervision.",
+      "buttons": [
+        {
+          "label": "How we work",
+          "href": "/how-we-work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "The Vertical Immersive connection",
+      "tone": "black",
+      "body": "We offer real-world experience to students at [Vertical Immersive](https://www.verticalimmersive.life/), a faith-focused higher education program. It launches students into white-collar apprenticeships through an immersive learning environment.\n\nAt Studios, they do real work for real clients with real deadlines. When you partner with us, you help young people build a foundation for a career. You help them grow the talents, skills and mindsets to serve Christ in all of life.",
+      "bullets": [
+        "Real clients, real deadlines, real stakes",
+        "Direct supervision from senior marketers",
+        "Your growth funds their calling"
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "What's Vertical Life?",
+      "body": "Vertical Life is a Kingdom-minded organization. It builds and operates companies, cultivates partnerships and creates opportunities for people to live faith, purpose and work aligned.\n\nVertical Life believes faith isn't meant to be compartmentalized. Faith shapes who we are and reveals our purpose. It shows up in how we work, lead, serve, create and give.\n\nThrough its companies, partnerships and shared resources, Vertical Life equips people to steward their calling. And to experience God doing immeasurably more than they could ask or imagine.",
+      "buttons": [
+        {
+          "label": "Learn more about Vertical Life",
+          "href": "https://thevertical.life",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "Our family of companies",
+      "tone": "black",
+      "style": "plain",
+      "body": "Studios works alongside the other companies of Vertical Life. Each one serves a different part of the same mission.",
+      "items": [
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/6628083a88405b4d0f29bf6f/375f3854-3eb0-4eea-9c20-f84e2037de9e/VL+white+bold+yellow+horizontal.png?format=750w",
+          "imageAlt": "Vertical Life logo",
+          "imageIsLogo": true,
+          "eyebrow": "Coworking and ecosystem",
+          "title": "Vertical Life",
+          "body": "The Kingdom-minded organization that builds and operates companies, Studios included. Home of the Atrium coworking space in Indianapolis.",
+          "linkLabel": "Visit Vertical Life",
+          "linkHref": "https://thevertical.life"
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/667c450ccef1c76b7cebfd4c/2e824f74-41c8-4889-ba82-b4ec779676ad/VI+white+bold+yellow+horizontal.png?format=750w",
+          "imageAlt": "Vertical Immersive logo",
+          "imageIsLogo": true,
+          "eyebrow": "Higher education",
+          "title": "Vertical Immersive",
+          "body": "A faith-focused higher education program that launches students into white-collar apprenticeships. Our apprentices come from here.",
+          "linkLabel": "Visit Vertical Immersive",
+          "linkHref": "https://www.verticalimmersive.life/"
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/6628083a88405b4d0f29bf6f/c61507fa-ebab-4c81-9ddf-7d704fdd3902/VW+white+bold+yellow+horizontal.png?format=750w",
+          "imageAlt": "Vertical Wealth logo",
+          "imageIsLogo": true,
+          "eyebrow": "Financial planning",
+          "title": "Vertical Wealth",
+          "body": "Financial planning and wealth management. We built its campaign playbook and new website, and relaunched its weekly emails as Weekly Lessons.",
+          "linkLabel": "Visit Vertical Wealth",
+          "linkHref": "https://www.verticalwealth.life/"
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Partner with Vertical Studios",
+      "body": "Grow your organization and invest in the next generation at the same time. It starts with a short call with Gabe.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

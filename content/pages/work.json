@@ -1,0 +1,108 @@
+{
+  "title": "Our Work: Marketing Case Studies | Vertical Studios",
+  "description": "See the marketing we run for the companies of Vertical Life: ad campaigns, conversion tracking, video, HighLevel systems and click-to-edit websites.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Our work",
+      "headline": "Work we run every day",
+      "body": "Studios lives inside Vertical Life. We run marketing for its companies with the same senior leads, apprentice crew and process you'd get. Here's the work, company by company.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "How we work",
+          "href": "/how-we-work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "anchor": "vertical-life",
+      "heading": "Vertical Life",
+      "tone": "red",
+      "body": "**Coworking and ecosystem**\n\nThe challenge: help people searching for coworking find the Atrium. Then show the team what's working, on a website they can edit themselves.\n\nWhat we did:",
+      "bullets": [
+        "Brand and coworking search campaigns for the Atrium on Google Ads",
+        "Conversion tracking in Google Tag Manager and GA4",
+        "Event templates and branding inside HighLevel",
+        "Monthly short-form video film days",
+        "A new website built on Astro, with a click-to-edit editor (TinaCMS)",
+        "Atrium packages and prices, meeting room credits and a visit form, all on the site"
+      ],
+      "buttons": [
+        {
+          "label": "See the live site",
+          "href": "https://thevertical.life",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "anchor": "vertical-immersive",
+      "heading": "Vertical Immersive",
+      "body": "**Higher education**\n\nThe challenge: get open houses in front of 15 to 18 year olds. Then make sure every RSVP lands where the team can follow up.\n\nWhat we did:",
+      "bullets": [
+        "Meta ads for open houses, aimed at 15 to 18 year olds",
+        "Facebook lead forms connected to HighLevel, so every RSVP lands in the pipeline",
+        "Awareness campaigns and Google display ads",
+        "A cold email campaign, with mailed follow-up to non-responders",
+        "A rebuilt website with click-to-edit"
+      ],
+      "buttons": [
+        {
+          "label": "See the live site",
+          "href": "https://www.verticalimmersive.life/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "anchor": "vertical-wealth",
+      "heading": "Vertical Wealth",
+      "tone": "black",
+      "body": "**Financial planning**\n\nThe challenge: market a financial firm with clarity while staying compliant. And give the team a plan they can run week after week.\n\nWhat we did:",
+      "bullets": [
+        "A campaign playbook with five client personas and a phased plan",
+        "Content rules that keep a financial firm's marketing compliant",
+        "The weekly email series, relaunched as Weekly Lessons",
+        "A new website with click-to-edit"
+      ],
+      "buttons": [
+        {
+          "label": "See the live site",
+          "href": "https://www.verticalwealth.life/",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "richText",
+      "heading": "More case studies on the way",
+      "body": "We also serve businesses and nonprofits across Indiana and beyond. Their stories are theirs to tell, so we ask first.\n\nOutside client case studies are added here as clients approve them."
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Want this kind of team on your marketing?",
+      "body": "Every engagement is custom and starts with a short call. Tell us what winning looks like for you this year.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

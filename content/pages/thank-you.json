@@ -1,0 +1,45 @@
+{
+  "title": "Thank You | Vertical Studios",
+  "description": "Thanks for reaching out to Vertical Studios. Gabe Wheeler, our Studio Manager, will be in touch shortly to set up an intro call about your organization.",
+  "noindex": true,
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Thank you",
+      "headline": "Thanks. We'll be in touch.",
+      "body": "We got your message. Gabe Wheeler, our Studio Manager, will reach out shortly to set up an intro call. Need us sooner? Call 463-285-8785.",
+      "buttons": [
+        {
+          "label": "See our work",
+          "href": "/work",
+          "style": "primary"
+        },
+        {
+          "label": "How we work",
+          "href": "/how-we-work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "While you wait",
+      "tone": "black",
+      "style": "boxed",
+      "items": [
+        {
+          "title": "Our work",
+          "body": "Campaigns, tracking, video and websites we run for the companies of Vertical Life.",
+          "linkLabel": "See our work",
+          "linkHref": "/work"
+        },
+        {
+          "title": "How we work",
+          "body": "Senior-led. Apprentice-powered. See who leads, who produces and how an engagement starts.",
+          "linkLabel": "How we work",
+          "linkHref": "/how-we-work"
+        }
+      ]
+    }
+  ]
+}

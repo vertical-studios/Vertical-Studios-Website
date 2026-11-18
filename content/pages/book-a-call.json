@@ -1,0 +1,81 @@
+{
+  "title": "Contact Us: Book a Call | Vertical Studios",
+  "description": "Book a call with Gabe Wheeler, our Studio Manager. Tell us about your organization and he'll set up a short intro call. Or call 463-285-8785.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Contact",
+      "headline": "Book a call",
+      "body": "Gabe Wheeler, our Studio Manager, is your first contact. Call him at 463-285-8785, email studios@thevertical.life, or fill out the form below.",
+      "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/bc34dba2-2449-48ad-ba58-60bf8c38c9f6/Gabe-1.jpg",
+      "imageAlt": "Gabe Wheeler, Studio Manager at Vertical Studios",
+      "buttons": [
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "primary"
+        },
+        {
+          "label": "Email us",
+          "href": "mailto:studios@thevertical.life",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "embed",
+      "anchor": "project-form",
+      "heading": "Tell us about your organization",
+      "tone": "black",
+      "body": "Fill out the form and Gabe will reach out to set up a short intro call. We'll talk about your organization and what winning looks like for you this year. Every engagement is custom, and it starts with that conversation.",
+      "kind": "form",
+      "widgetId": "en3AEF87cemYpp7YXXny",
+      "height": 900
+    },
+    {
+      "_template": "cards",
+      "heading": "Contact details",
+      "tone": "red",
+      "style": "plain",
+      "items": [
+        {
+          "eyebrow": "Visit",
+          "title": "The Atrium",
+          "body": "10330 N Meridian St, Ste 300, Indianapolis, IN 46290"
+        },
+        {
+          "eyebrow": "Call",
+          "title": "Gabe Wheeler",
+          "body": "463-285-8785. Gabe is our Studio Manager and your first contact.",
+          "linkLabel": "Call 463-285-8785",
+          "linkHref": "tel:4632858785"
+        },
+        {
+          "eyebrow": "Email",
+          "title": "The studio team",
+          "body": "Send a note about your organization and what you need.",
+          "linkLabel": "studios@thevertical.life",
+          "linkHref": "mailto:studios@thevertical.life"
+        }
+      ]
+    },
+    {
+      "_template": "faq",
+      "heading": "Questions",
+      "items": [
+        {
+          "question": "What happens after I fill out the form?",
+          "answer": "Gabe will reach out to set up a short intro call. We'll talk about your organization and what winning looks like for you this year."
+        },
+        {
+          "question": "Do I need a plan or a budget before we talk?",
+          "answer": "No. Just bring your goals. Every engagement is custom. After the call, we build a plan and proposal around your goals for the year."
+        },
+        {
+          "question": "Who do you work with?",
+          "answer": "Kingdom-minded businesses, and nonprofits too. We're based at the Atrium in Indianapolis and work with organizations across Indiana and beyond."
+        }
+      ]
+    }
+  ]
+}

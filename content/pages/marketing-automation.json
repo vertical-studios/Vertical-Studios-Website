@@ -1,0 +1,117 @@
+{
+  "title": "HighLevel CRM and Marketing Automation | Vertical Studios",
+  "description": "We build your CRM, pipelines and automations inside HighLevel, so every lead gets routed, tagged, followed up with and tracked. Senior-led setup.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Services",
+      "headline": "Every lead gets followed up",
+      "body": "We build your CRM, pipelines and automations inside HighLevel. Every lead gets routed, tagged, followed up with and tracked.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "All services",
+          "href": "/services",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "What we set up",
+      "tone": "black",
+      "body": "All inside HighLevel. All built around how your team actually sells.",
+      "style": "plain",
+      "items": [
+        {
+          "title": "Your CRM",
+          "body": "Contacts, conversations and history in one place, organized the way your team works."
+        },
+        {
+          "title": "Pipelines",
+          "body": "Stages that match how an inquiry becomes a client. See where every opportunity stands at a glance."
+        },
+        {
+          "title": "Lead capture",
+          "body": "Website forms and ad lead forms connected straight to your pipeline. Every inquiry lands somewhere."
+        },
+        {
+          "title": "Routing and tagging",
+          "body": "Each lead goes to the right person with the right tags. Nobody wonders whose it is."
+        },
+        {
+          "title": "Follow-up automations",
+          "body": "Emails and texts that go out when they should, even in your busiest week."
+        },
+        {
+          "title": "Tracking",
+          "body": "See where leads come from and what happens next. Marketing decisions rest on real numbers."
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "How we build it",
+      "body": "We map how you sell before we automate any of it.",
+      "items": [
+        "Intro call: tell Gabe where leads come from today and where they get lost.",
+        "What winning looks like: quicker replies, cleaner handoffs, fewer lost inquiries. We name the goal.",
+        "Map the pipeline: we sketch your stages, tags and follow-up before we build anything.",
+        "Build and run: we set it up in HighLevel, test it and walk your team through it. Then we keep improving it."
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Built by systems thinkers",
+      "tone": "red",
+      "body": "Gabe Wheeler leads the studio team and is your day-to-day contact. His engineering background makes him a systems thinker, which is most of what good automation takes.\n\nApprentices build and test the workflows under direct supervision. We run the same kind of setup for Vertical Immersive. Every open house RSVP from an ad lands in the pipeline.",
+      "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/98ca63ec-d2ae-4011-90cc-024bac695a95/Wheeler_Gabriel_Headshot.png",
+      "imageAlt": "Gabe Wheeler, Studio Manager at Vertical Studios",
+      "imageSide": "right"
+    },
+    {
+      "_template": "faq",
+      "heading": "Automation questions",
+      "items": [
+        {
+          "question": "Why HighLevel?",
+          "answer": "It keeps your CRM, pipelines, forms and follow-up in one place. It's also what we run for the companies of Vertical Life, so we know it well."
+        },
+        {
+          "question": "We already have HighLevel. Can you help?",
+          "answer": "Yes. We can clean up what's there, fix follow-up that isn't firing and build what's missing."
+        },
+        {
+          "question": "What does setup cost?",
+          "answer": "It depends on scope: how many pipelines, forms and automations you need, and what's already in place. Every engagement is custom. [Book a call](/book-a-call) and walk us through it."
+        },
+        {
+          "question": "Will automation replace our sales team?",
+          "answer": "No. It handles the routing, reminders and follow-up. Your people spend their time on conversations."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Find out where your leads go",
+      "tone": "black",
+      "body": "Tell us how leads reach you today. Gabe will set up a short call to talk it through.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

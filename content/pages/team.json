@@ -1,0 +1,133 @@
+{
+  "title": "Meet Your Marketing Team | Vertical Studios",
+  "description": "Meet the Vertical Studios team: our studio manager, a creative director with 25+ years of experience, leadership and apprentices from Vertical Immersive.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Our team",
+      "headline": "Meet your team",
+      "body": "Senior marketers lead. Apprentices from Vertical Immersive produce. Here are the people behind your marketing, starting with the two you'll talk to most.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "How we work",
+          "href": "/how-we-work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "Who you'll work with day to day",
+      "tone": "black",
+      "style": "boxed",
+      "body": "Gabe keeps your projects moving. Jen makes sure the work is right.",
+      "items": [
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/98ca63ec-d2ae-4011-90cc-024bac695a95/Wheeler_Gabriel_Headshot.png",
+          "imageAlt": "Gabe Wheeler",
+          "eyebrow": "Studio Manager",
+          "title": "Gabe Wheeler",
+          "body": "Gabe leads the studio team and is your day-to-day bridge to Studios. His engineering background makes him a creative problem solver and systems thinker.",
+          "linkLabel": "Book a call with Gabe",
+          "linkHref": "/book-a-call"
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/73d5f733-b0e9-4f39-b38e-f16c0cf78a1d/16.jpg",
+          "imageAlt": "Jen Fox",
+          "eyebrow": "Creative Director",
+          "title": "Jen Fox",
+          "body": "Jen holds our work to your marketing goals and our standard for quality. A former mid-size agency owner with 25+ years of experience, she also teaches visual communications at Vertical Immersive."
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "Leadership",
+      "style": "boxed",
+      "body": "The leaders who set direction for Studios and keep it aligned with our mission.",
+      "items": [
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/0eb2533f-ad3b-41e5-a730-3031c9047436/14+%281%29.jpg",
+          "imageAlt": "Brian Wheeler",
+          "eyebrow": "Chief Vision Officer",
+          "title": "Brian Wheeler",
+          "body": "Brian is a Kingdom entrepreneur who leads service companies, including a wealth management firm and a wedding venue. As the voice of the client, he helps our team understand what you want to achieve."
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/0d5ba620-7e96-4b36-8243-a785ae30bfd1/11+%281%29.jpg",
+          "imageAlt": "Susan Rozzi",
+          "eyebrow": "Chief Executive Officer",
+          "title": "Susan Rozzi",
+          "body": "Susan sets the strategic direction for Studios, drives growth and nurtures partnerships. She keeps every part of the organization aligned with our mission, values and standard of excellence."
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/56062cc9-f9b5-4263-9515-fad11354019f/03+%281%29.jpg",
+          "imageAlt": "Kaitlyn Smith",
+          "eyebrow": "Chief Operating Officer",
+          "title": "Kaitlyn Smith",
+          "body": "Kaitlyn oversees workflows, resources, financial stewardship and team performance. She partners with Susan to turn vision into a strategy the team can execute."
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "The production crew",
+      "tone": "red",
+      "style": "boxed",
+      "body": "Our crew comes from Vertical Immersive, a faith-focused higher education program. They produce your work under direct supervision.",
+      "items": [
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/5bb60673-0663-4d99-bf27-adb27b9ff73b/24+%281%29.jpg",
+          "imageAlt": "Noah Bales",
+          "eyebrow": "Video Production",
+          "title": "Noah Bales",
+          "body": "Noah turns the creative vision into video, from shoot prep and on-set work to post-production editing. He's a Vertical Immersive alumnus."
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/826b45d5-7779-4104-8914-462a785afc0c/Carson.jpg",
+          "imageAlt": "Carson Poore",
+          "eyebrow": "Marketing Apprentice",
+          "title": "Carson Poore",
+          "body": "From back-end systems to branding and messaging, Carson jumps on anything and does it with excellence. He's a second-year student at Vertical Immersive."
+        },
+        {
+          "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/19ef2297-4918-4208-90a0-8be21c8f678a/Alea+F.jpg",
+          "imageAlt": "Alea Fleck",
+          "eyebrow": "Social Media Apprentice",
+          "title": "Alea Fleck",
+          "body": "Alea runs social media for our clients, creating and posting content that resonates with audiences. Alea is a second-year student at Vertical Immersive."
+        }
+      ],
+      "buttons": [
+        {
+          "label": "How the apprentice model works",
+          "href": "/how-we-work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Talk with Gabe",
+      "tone": "black",
+      "body": "Every engagement starts with a short call. Tell us about your organization and what winning looks like for you this year.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

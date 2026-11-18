@@ -1,0 +1,147 @@
+{
+  "title": "How We Work: Senior-Led Marketing | Vertical Studios",
+  "description": "Senior marketers lead every account. Apprentices from Vertical Immersive produce the work under direct supervision. Here's how an engagement runs.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "How we work",
+      "headline": "Senior-led. Apprentice-powered.",
+      "body": "Experienced marketers lead your account. Apprentices from Vertical Immersive produce the work under direct supervision. You get senior thinking and a full production crew.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "See our work",
+          "href": "/work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Who leads: senior marketers",
+      "tone": "black",
+      "body": "Every account is run by experienced marketers with agency, nonprofit and in-house backgrounds. They set the strategy, make the calls and own the plan.\n\nOur creative director, Jen Fox, reviews the work before it goes out. She owned a mid-size agency and brings more than 25 years of experience.",
+      "bullets": [
+        "A senior marketer leads every account",
+        "Strategy first: goals, audience and the two or three channels that matter",
+        "Creative director review before anything goes out"
+      ],
+      "buttons": [
+        {
+          "label": "Meet the team",
+          "href": "/team",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Who produces: apprentices from Vertical Immersive",
+      "body": "Behind our senior team is a bench of apprentices from Vertical Immersive, a faith-focused higher education program. They design, write, shoot, edit, post and build.\n\nThey work under direct supervision. Real clients, real deadlines, real stakes. That's how they learn, and it's how your work gets made.",
+      "bullets": [
+        "Production handled by apprentices under direct supervision",
+        "Design, social, video, websites and automation from one crew",
+        "Real-world experience for students at Vertical Immersive"
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "What you get",
+      "tone": "red",
+      "style": "boxed",
+      "body": "Your fractional CMO plus the team to run it.",
+      "items": [
+        {
+          "title": "A senior lead",
+          "body": "One experienced marketer who owns your strategy and your account."
+        },
+        {
+          "title": "A full production crew",
+          "body": "Design, social, video, websites and automation, produced by apprentices under direct supervision."
+        },
+        {
+          "title": "One point of contact",
+          "body": "Gabe Wheeler, our Studio Manager, is your day-to-day bridge to the team. He makes sure every deliverable lands."
+        },
+        {
+          "title": "A plan built for you",
+          "body": "Every engagement is custom. No packages. We build backward from your goals for the year."
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "How an engagement starts",
+      "body": "A short call, a clear goal, then a plan you can see.",
+      "items": [
+        "Intro call: a short conversation with Gabe about your organization and where it's headed.",
+        "What winning looks like: we ask what winning looks like for you this year. Then we build backward from there.",
+        "The plan: your goals, your audience and the two or three channels that actually matter for your business.",
+        "Launch and run: your senior lead and the apprentice crew produce, publish and report back."
+      ],
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        }
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Your growth funds their calling",
+      "tone": "black",
+      "body": "Hiring Studios does two things at once. You get a marketing team. Apprentices get real work, real feedback and real stakes.\n\nThat's how they build the skills, character and confidence to serve Christ in whatever room they end up in. Your budget builds careers, not just campaigns.",
+      "buttons": [
+        {
+          "label": "About Studios",
+          "href": "/about",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "faq",
+      "heading": "Questions",
+      "items": [
+        {
+          "question": "Will apprentices be learning on my account?",
+          "answer": "Yes, and that's the point. They learn by doing real work under direct supervision. A senior marketer owns your strategy, and our creative director reviews the work before it goes out."
+        },
+        {
+          "question": "Who is my main contact?",
+          "answer": "Gabe Wheeler, our Studio Manager. He leads the studio team and is your bridge to everyone on it, day to day."
+        },
+        {
+          "question": "How is pricing set?",
+          "answer": "Every engagement is custom. After a short call, we put together a plan and a proposal built around your goals for the year."
+        },
+        {
+          "question": "What happens on the first call?",
+          "answer": "A short conversation with Gabe about your organization and what winning looks like for you this year. [Book a call](/book-a-call) to get started."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "What does winning look like for you this year?",
+      "body": "Tell us about your organization. Gabe will set up a short intro call to talk it through.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "title": "Video Production in Indianapolis | Vertical Studios",
+  "description": "Brand films, testimonials, service explainers, event recaps and short-form social cuts. We concept, script, shoot and edit, start to finish.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Services",
+      "headline": "People buy from businesses they've seen",
+      "body": "And heard. We handle video end to end: concepting, scripting, shooting and editing. Brand films, testimonials, service explainers, event recaps and short-form social cuts.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "See our work",
+          "href": "/work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "What we produce",
+      "tone": "red",
+      "body": "Five formats. Each one has a job to do.",
+      "style": "plain",
+      "items": [
+        {
+          "title": "Brand films",
+          "body": "Who you are and why you do the work. A piece you can use on your homepage, in pitches and at events."
+        },
+        {
+          "title": "Testimonials",
+          "body": "Your clients, in their own words, on camera. We handle the questions so they sound like themselves."
+        },
+        {
+          "title": "Service explainers",
+          "body": "What you do and how it works, explained plainly. Answers to the questions prospects ask before they call."
+        },
+        {
+          "title": "Event recaps",
+          "body": "Capture the day for the people who were there. Give everyone else a reason to come next time."
+        },
+        {
+          "title": "Short-form social cuts",
+          "body": "Short clips sized for social feeds, cut from a larger shoot or filmed on their own. We run monthly film days for Vertical Life."
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "From idea to final cut",
+      "body": "We handle it end to end. You show up for the parts that need you.",
+      "items": [
+        "Intro call: a short conversation about what you want people to see, hear and do.",
+        "What winning looks like: the one thing this video needs to accomplish, and where it will live.",
+        "Concept and script: we write it, plan the shoot and share it with you before cameras roll.",
+        "Shoot and edit: our crew films, edits and delivers cuts for every place you'll use them."
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Who's behind the camera",
+      "tone": "black",
+      "body": "A senior lead owns the concept and the message. Our creative director reviews the work before it goes out.\n\nNoah Bales, a Vertical Immersive alum, supports shoot prep, on-set work and the final edit. Apprentices join the crew under direct supervision.",
+      "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/5bb60673-0663-4d99-bf27-adb27b9ff73b/24+%281%29.jpg",
+      "imageAlt": "Noah Bales, Video Production at Vertical Studios",
+      "imageSide": "left"
+    },
+    {
+      "_template": "faq",
+      "heading": "Video questions",
+      "items": [
+        {
+          "question": "Do you write the script?",
+          "answer": "Yes. Concepting and scripting are part of the work. You review the script before we shoot."
+        },
+        {
+          "question": "Can one shoot cover several videos?",
+          "answer": "Often, yes. One well-planned day can produce a brand film, a testimonial and short-form cuts. We'll tell you when that makes sense."
+        },
+        {
+          "question": "What does a video cost, and how long does it take?",
+          "answer": "It depends on scope: the format, the locations and how many cuts you need. Every engagement is custom and starts with a short call. [Book a call](/book-a-call)."
+        },
+        {
+          "question": "Where do you film?",
+          "answer": "We're based at the Atrium in Indianapolis. Where we shoot depends on the story, and we plan locations together during scripting."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Put your story on camera",
+      "body": "Tell us what you want people to see. Gabe will set up a short call.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "title": "Social Media Management | Vertical Studios",
+  "description": "We plan, produce and manage social content that keeps your brand in front of the right people, so you're familiar by the time they're ready to buy.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Services",
+      "headline": "Familiar before they're ready to buy",
+      "body": "We plan, produce and manage content that keeps your brand in front of the right people. So you're already familiar by the time they're ready to buy.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "All services",
+          "href": "/services",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "What we handle",
+      "body": "The planning, the production and the day-to-day work of keeping your accounts current.",
+      "style": "plain",
+      "items": [
+        {
+          "title": "A content plan",
+          "body": "What we'll post, where and why. Tied to your goals for the year, not to whatever is trending."
+        },
+        {
+          "title": "Content production",
+          "body": "Graphics, photos, short-form video and captions, made by our team in your voice."
+        },
+        {
+          "title": "Scheduling and posting",
+          "body": "We publish on the platforms your audience actually uses. You don't have to remember."
+        },
+        {
+          "title": "Account care",
+          "body": "We keep your profiles current and watch the comments. You hear about what needs your attention."
+        },
+        {
+          "title": "Reporting",
+          "body": "A plain-language look at what's working and what we'll change next."
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "How social works with us",
+      "tone": "red",
+      "body": "A plan first. Then a steady rhythm your audience can count on.",
+      "items": [
+        "Intro call: we learn about your organization, your audience and what you've tried so far.",
+        "What winning looks like: awareness, inquiries, event turnout or new donors. We pick the goal before the platform.",
+        "The plan: the right platforms, the topics you'll own and a calendar you can see.",
+        "Produce and post: apprentices create and publish, a senior lead reviews, and we report back."
+      ]
+    },
+    {
+      "_template": "imageText",
+      "heading": "Who runs your accounts",
+      "tone": "black",
+      "body": "Alea Fleck is our social media apprentice and a second-year student at Vertical Immersive. She runs social media for our clients, creating and posting content.\n\nA senior marketer sets the plan and reviews the work. Apprentices produce under direct supervision. You get a steady presence. They get real work with real stakes.",
+      "image": "https://images.squarespace-cdn.com/content/v1/65f34dbe3f188e3ab59e310e/19ef2297-4918-4208-90a0-8be21c8f678a/Alea+F.jpg",
+      "imageAlt": "Alea Fleck, Social Media Apprentice at Vertical Studios",
+      "imageSide": "right"
+    },
+    {
+      "_template": "faq",
+      "heading": "Social media questions",
+      "items": [
+        {
+          "question": "Do we need to be on every platform?",
+          "answer": "No. We pick the platforms your audience actually uses and do those well. That decision is part of the plan."
+        },
+        {
+          "question": "Will it sound like us?",
+          "answer": "That's the goal. We learn your voice up front, and you can review content before it goes live."
+        },
+        {
+          "question": "What does social media management cost?",
+          "answer": "It depends on scope: how many platforms, how much content and whether video is part of it. Every engagement is custom. [Book a call](/book-a-call) and we'll talk it through."
+        },
+        {
+          "question": "Can you film short-form video for our feeds?",
+          "answer": "Yes. Our video team concepts, shoots and edits short-form social cuts. See [video production](/video-production)."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Be the name they already know",
+      "body": "Tell us who you want to reach. Gabe will set up a short call to talk it through.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        }
+      ]
+    }
+  ]
+}

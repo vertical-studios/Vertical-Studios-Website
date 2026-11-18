@@ -1,0 +1,114 @@
+{
+  "title": "Website Design and Development | Vertical Studios",
+  "description": "Your website has one job: help the right person decide you're the answer. We audit what's there, fix what's confusing and build what's missing.",
+  "blocks": [
+    {
+      "_template": "hero",
+      "eyebrow": "Services",
+      "headline": "Your website has one job",
+      "body": "Help the right person decide you're the answer. We audit what's there, fix what's confusing and build what's missing.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "See our work",
+          "href": "/work",
+          "style": "secondary"
+        }
+      ]
+    },
+    {
+      "_template": "cards",
+      "heading": "Audit, fix, build",
+      "body": "We start where your site actually is. Some need a tune-up. Some need a rebuild.",
+      "style": "plain",
+      "items": [
+        {
+          "title": "Website audit",
+          "body": "We review your message, structure, speed and the spots where visitors get stuck. You get a plain list of what to fix first."
+        },
+        {
+          "title": "Clarity fixes",
+          "body": "Clearer headlines, simpler navigation and one obvious next step on every page."
+        },
+        {
+          "title": "New builds",
+          "body": "When a fix won't do, we build what's missing. Structure, copy, design and development from one team."
+        },
+        {
+          "title": "Edit it yourself",
+          "body": "Click-to-edit pages your team can update in place, without calling us for every change."
+        },
+        {
+          "title": "Forms that feed your pipeline",
+          "body": "Inquiry forms connected to HighLevel, so every lead lands where your team will follow up."
+        },
+        {
+          "title": "Conversion tracking",
+          "body": "See which pages lead to calls and form fills. Your next decision rests on something real."
+        }
+      ]
+    },
+    {
+      "_template": "steps",
+      "heading": "How a website project runs",
+      "tone": "black",
+      "body": "We start with what the site needs to do. Then we decide what it needs to look like.",
+      "items": [
+        "Intro call: walk us through your site and the people you want it to reach.",
+        "What winning looks like: more calls, more form fills or more visits booked. We pick the measure first.",
+        "Audit and plan: what to keep, what to fix and what to build, in priority order.",
+        "Build and launch: we design, write and develop, then hand you a site your team can edit."
+      ]
+    },
+    {
+      "_template": "richText",
+      "heading": "Who builds it",
+      "body": "A senior lead owns the plan and the message. Apprentices from Vertical Immersive design, write and build under direct supervision. Our creative director reviews the work before launch.\n\nWe've built new websites for Vertical Life, Vertical Immersive and Vertical Wealth, each with click-to-edit pages. [See the work](/work)."
+    },
+    {
+      "_template": "faq",
+      "heading": "Website questions",
+      "tone": "red",
+      "items": [
+        {
+          "question": "Do we need a whole new website?",
+          "answer": "Not always. Sometimes the right move is fixing what's confusing on the site you have. The audit tells us which."
+        },
+        {
+          "question": "Can our team update the site after launch?",
+          "answer": "Yes. We build sites with click-to-edit pages, so your team can change words and images in place."
+        },
+        {
+          "question": "What does a website cost?",
+          "answer": "It depends on scope. A set of fixes is a different project from a full build. Every engagement is custom and starts with a short call. [Book a call](/book-a-call)."
+        },
+        {
+          "question": "How long does a website take?",
+          "answer": "That depends on scope too. Once we've seen your site and agreed on the goal, we'll lay out a realistic plan."
+        }
+      ]
+    },
+    {
+      "_template": "ctaBanner",
+      "heading": "Let's fix what's confusing",
+      "tone": "black",
+      "body": "Send us your site and tell us who it's for. Gabe will set up a short call.",
+      "buttons": [
+        {
+          "label": "Book a call",
+          "href": "/book-a-call",
+          "style": "primary"
+        },
+        {
+          "label": "Call Gabe: 463-285-8785",
+          "href": "tel:4632858785",
+          "style": "secondary"
+        }
+      ]
+    }
+  ]
+}
