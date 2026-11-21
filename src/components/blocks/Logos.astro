@@ -22,8 +22,7 @@ const { heading, body, items = [], tone } = Astro.props;
   </div>
 </section>
 <style>
-  .logos { padding-block: clamp(48px, 6vw, 80px); }
-  h2 { font-size: clamp(2rem, 1.5rem + 1.6vw, 2.6rem); }
+  .logos { padding-block: var(--section); }
   .row { list-style: none; margin: 28px 0 0; padding: 0; display: grid; gap: 16px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 160px), 1fr)); }
   .row li > * { display: grid; gap: 10px; justify-items: center; align-content: center; height: 100%; padding: 18px 14px 14px; background: var(--white); color: var(--black); border: 2px solid var(--black); text-decoration: none; text-align: center; }
   .row img { height: 64px; width: 100%; object-fit: contain; }
