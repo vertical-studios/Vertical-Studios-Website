@@ -8,23 +8,23 @@
       "label": "Services",
       "links": [
         {
-          "label": "All services",
+          "label": "All Services",
           "href": "/services"
         },
         {
-          "label": "Strategy and planning",
+          "label": "Strategy and Planning",
           "href": "/strategy-and-planning"
         },
         {
-          "label": "Graphic design",
+          "label": "Graphic Design",
           "href": "/graphic-design"
         },
         {
-          "label": "Social media",
+          "label": "Social Media",
           "href": "/social-media"
         },
         {
-          "label": "Video production",
+          "label": "Video Production",
           "href": "/video-production"
         },
         {
@@ -32,7 +32,7 @@
           "href": "/websites"
         },
         {
-          "label": "Marketing automation",
+          "label": "Marketing Automation",
           "href": "/marketing-automation"
         }
       ]
@@ -42,7 +42,7 @@
       "href": "/work"
     },
     {
-      "label": "How we work",
+      "label": "How We Work",
       "href": "/how-we-work"
     },
     {
@@ -68,7 +68,7 @@
     }
   ],
   "navCta": {
-    "label": "Book a call",
+    "label": "Book a Call",
     "short": "Book",
     "href": "/book-a-call"
   },
@@ -79,22 +79,22 @@
   "footerLinks": [
     {
       "section": "Services",
-      "label": "Strategy and planning",
+      "label": "Strategy and Planning",
       "href": "/strategy-and-planning"
     },
     {
       "section": "Services",
-      "label": "Graphic design",
+      "label": "Graphic Design",
       "href": "/graphic-design"
     },
     {
       "section": "Services",
-      "label": "Social media",
+      "label": "Social Media",
       "href": "/social-media"
     },
     {
       "section": "Services",
-      "label": "Video production",
+      "label": "Video Production",
       "href": "/video-production"
     },
     {
@@ -104,7 +104,7 @@
     },
     {
       "section": "Services",
-      "label": "Marketing automation",
+      "label": "Marketing Automation",
       "href": "/marketing-automation"
     },
     {
@@ -114,7 +114,7 @@
     },
     {
       "section": "Studio",
-      "label": "How we work",
+      "label": "How We Work",
       "href": "/how-we-work"
     },
     {
@@ -153,11 +153,11 @@
   ],
   "legal": [
     {
-      "label": "Privacy policy",
+      "label": "Privacy Policy",
       "href": "/privacy-policy"
     },
     {
-      "label": "Terms of service",
+      "label": "Terms of Service",
       "href": "/terms-of-service"
     }
   ],
@@ -179,6 +179,6 @@
     }
   ],
   "siteName": "Vertical Studios",
-  "contactHeading": "Talk with us",
+  "contactHeading": "Talk With Us",
   "familyHeading": "Part of Vertical Life"
 }

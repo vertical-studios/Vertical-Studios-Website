@@ -4,7 +4,7 @@
   "blocks": [
     {
       "_template": "hero",
-      "eyebrow": "Our team",
+      "eyebrow": "Our Team",
       "headline": "Meet your team",
       "body": "Senior marketers lead. Apprentices from Vertical Immersive produce. Here are the people behind your marketing, starting with the two you'll talk to most.",
       "buttons": [
@@ -14,7 +14,7 @@
           "style": "primary"
         },
         {
-          "label": "How we work",
+          "label": "How We Work",
           "href": "/how-we-work",
           "style": "secondary"
         }

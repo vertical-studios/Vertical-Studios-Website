@@ -4,7 +4,7 @@
   "blocks": [
     {
       "_template": "hero",
-      "eyebrow": "Your marketing team",
+      "eyebrow": "Your Marketing Team",
       "headline": "Kingdom-minded marketing for Kingdom-minded businesses",
       "body": "A full marketing team, led by senior marketers and produced by apprentices we're training for a life of purpose. Your growth funds their calling.",
       "buttons": [
@@ -103,7 +103,7 @@
       ],
       "buttons": [
         {
-          "label": "How we work",
+          "label": "How We Work",
           "href": "/how-we-work",
           "style": "secondary"
         }

@@ -4,7 +4,7 @@
   "blocks": [
     {
       "_template": "hero",
-      "eyebrow": "Our vision",
+      "eyebrow": "Our Vision",
       "headline": "Working to further God's Kingdom",
       "body": "Vertical Studios is one piece of a network of organizations focused on growing God's Kingdom. We serve Kingdom-minded businesses and nonprofits. And we train the next generation while we do it.",
       "buttons": [
@@ -27,7 +27,7 @@
       "body": "Vertical Life is an ecosystem of businesses built to further God's Kingdom. Studios is its marketing team.\n\nFor businesses and nonprofits, we're a full marketing team: strategy, design, social, video, websites and automation. Senior marketers lead every account. Apprentices produce the work under direct supervision.",
       "buttons": [
         {
-          "label": "How we work",
+          "label": "How We Work",
           "href": "/how-we-work",
           "style": "secondary"
         }

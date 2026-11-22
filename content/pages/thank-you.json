@@ -5,7 +5,7 @@
   "blocks": [
     {
       "_template": "hero",
-      "eyebrow": "Thank you",
+      "eyebrow": "Thank You",
       "headline": "Thanks. We'll be in touch.",
       "body": "We got your message. Gabe Wheeler, our Studio Manager, will reach out shortly to set up an intro call. Need us sooner? Call 463-285-8785.",
       "buttons": [
@@ -15,7 +15,7 @@
           "style": "primary"
         },
         {
-          "label": "How we work",
+          "label": "How We Work",
           "href": "/how-we-work",
           "style": "secondary"
         }
@@ -34,9 +34,9 @@
           "linkHref": "/work"
         },
         {
-          "title": "How we work",
+          "title": "How We Work",
           "body": "Senior-led. Apprentice-powered. See who leads, who produces and how an engagement starts.",
-          "linkLabel": "How we work",
+          "linkLabel": "How We Work",
           "linkHref": "/how-we-work"
         }
       ]

@@ -4,7 +4,7 @@
   "blocks": [
     {
       "_template": "hero",
-      "eyebrow": "Our work",
+      "eyebrow": "Our Work",
       "headline": "Work we run every day",
       "body": "Studios lives inside Vertical Life. We run marketing for its companies with the same senior leads, apprentice crew and process you'd get. Here's the work, company by company.",
       "buttons": [
@@ -14,7 +14,7 @@
           "style": "primary"
         },
         {
-          "label": "How we work",
+          "label": "How We Work",
           "href": "/how-we-work",
           "style": "secondary"
         }
