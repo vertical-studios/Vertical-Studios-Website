@@ -9,12 +9,12 @@
       "body": "A full marketing team for Kingdom-minded businesses and nonprofits. Strategy, design, social, video, websites and automation, built around what you need this year.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "See our work",
+          "label": "See Our Work",
           "href": "/work",
           "style": "secondary"
         }
@@ -36,42 +36,42 @@
           "eyebrow": "Fractional CMO",
           "title": "Strategy and planning",
           "body": "Most marketing fails because nobody decided what it was supposed to do. We build the plan first, then run it with you.",
-          "linkLabel": "See strategy and planning",
+          "linkLabel": "See Strategy and Planning",
           "linkHref": "/strategy-and-planning"
         },
         {
           "eyebrow": "Print and brand",
           "title": "Graphic design",
           "body": "Sales sheets, event materials, print collateral and brand systems. A mismatched deck undoes a great pitch.",
-          "linkLabel": "See graphic design",
+          "linkLabel": "See Graphic Design",
           "linkHref": "/graphic-design"
         },
         {
           "eyebrow": "Plan, produce, manage",
           "title": "Social media",
           "body": "Content that keeps you in front of the right people. So they already know you when they're ready to buy.",
-          "linkLabel": "See social media",
+          "linkLabel": "See Social Media",
           "linkHref": "/social-media"
         },
         {
           "eyebrow": "Concept to final cut",
           "title": "Video production",
           "body": "Brand films, testimonials, service explainers, event recaps and short-form cuts. We script, shoot and edit.",
-          "linkLabel": "See video production",
+          "linkLabel": "See Video Production",
           "linkHref": "/video-production"
         },
         {
           "eyebrow": "Audit, fix, build",
           "title": "Websites",
           "body": "Your website has one job: help the right person decide you're the answer. We make sure it does.",
-          "linkLabel": "See websites",
+          "linkLabel": "See Websites",
           "linkHref": "/websites"
         },
         {
           "eyebrow": "Inside HighLevel",
           "title": "Marketing automation",
           "body": "CRM, pipelines and follow-up that run on their own. Every lead routed, tagged, followed up with and tracked.",
-          "linkLabel": "See marketing automation",
+          "linkLabel": "See Marketing Automation",
           "linkHref": "/marketing-automation"
         }
       ]
@@ -88,7 +88,7 @@
           "style": "secondary"
         },
         {
-          "label": "Meet the team",
+          "label": "Meet the Team",
           "href": "/team",
           "style": "secondary"
         }
@@ -101,7 +101,7 @@
       "body": "That's what the first call is for. Tell Gabe what winning looks like this year. We'll point you to the right mix.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },

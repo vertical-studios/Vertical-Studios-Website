@@ -9,12 +9,12 @@
       "body": "Experienced marketers lead your account. Apprentices from Vertical Immersive produce the work under direct supervision. You get senior thinking and a full production crew.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "See our work",
+          "label": "See Our Work",
           "href": "/work",
           "style": "secondary"
         }
@@ -32,7 +32,7 @@
       ],
       "buttons": [
         {
-          "label": "Meet the team",
+          "label": "Meet the Team",
           "href": "/team",
           "style": "secondary"
         }
@@ -85,7 +85,7 @@
       ],
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         }
@@ -132,7 +132,7 @@
       "body": "Tell us about your organization. Gabe will set up a short intro call to talk it through.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },

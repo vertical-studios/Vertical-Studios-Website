@@ -10,7 +10,7 @@
       "body": "We got your message. Gabe Wheeler, our Studio Manager, will reach out shortly to set up an intro call. Need us sooner? Call 463-285-8785.",
       "buttons": [
         {
-          "label": "See our work",
+          "label": "See Our Work",
           "href": "/work",
           "style": "primary"
         },
@@ -30,7 +30,7 @@
         {
           "title": "Our work",
           "body": "Campaigns, tracking, video and websites we run for the companies of Vertical Life.",
-          "linkLabel": "See our work",
+          "linkLabel": "See Our Work",
           "linkHref": "/work"
         },
         {

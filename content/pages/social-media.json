@@ -9,12 +9,12 @@
       "body": "We plan, produce and manage content that keeps your brand in front of the right people. So you're already familiar by the time they're ready to buy.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "All services",
+          "label": "All Services",
           "href": "/services",
           "style": "secondary"
         }
@@ -97,7 +97,7 @@
       "body": "Tell us who you want to reach. Gabe will set up a short call to talk it through.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         }

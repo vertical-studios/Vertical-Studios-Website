@@ -9,12 +9,12 @@
       "body": "Help the right person decide you're the answer. We audit what's there, fix what's confusing and build what's missing.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "See our work",
+          "label": "See Our Work",
           "href": "/work",
           "style": "secondary"
         }
@@ -99,7 +99,7 @@
       "body": "Send us your site and tell us who it's for. Gabe will set up a short call.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },

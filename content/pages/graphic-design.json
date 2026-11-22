@@ -9,12 +9,12 @@
       "body": "Sales sheets, event materials, print collateral, brand systems. A mismatched deck undoes a great pitch. We make your materials look as good as your work.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "All services",
+          "label": "All Services",
           "href": "/services",
           "style": "secondary"
         }
@@ -98,7 +98,7 @@
       "body": "Tell us what you're putting in front of people. Gabe will set up a short call.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         }

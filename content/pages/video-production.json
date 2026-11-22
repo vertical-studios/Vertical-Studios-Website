@@ -9,12 +9,12 @@
       "body": "And heard. We handle video end to end: concepting, scripting, shooting and editing. Brand films, testimonials, service explainers, event recaps and short-form social cuts.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "See our work",
+          "label": "See Our Work",
           "href": "/work",
           "style": "secondary"
         }
@@ -97,7 +97,7 @@
       "body": "Tell us what you want people to see. Gabe will set up a short call.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },

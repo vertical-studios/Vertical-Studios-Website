@@ -9,12 +9,12 @@
       "body": "A full marketing team, led by senior marketers and produced by apprentices we're training for a life of purpose. Your growth funds their calling.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "See our work",
+          "label": "See Our Work",
           "href": "/work",
           "style": "secondary"
         }
@@ -56,25 +56,25 @@
         {
           "title": "Strategy and planning",
           "body": "Your fractional CMO plus the team to run it. We decide what the marketing is for before we make any.",
-          "linkLabel": "Strategy and planning",
+          "linkLabel": "Strategy and Planning",
           "linkHref": "/strategy-and-planning"
         },
         {
           "title": "Graphic design",
           "body": "Sales sheets, event materials, print and brand systems that match the quality of your work.",
-          "linkLabel": "Graphic design",
+          "linkLabel": "Graphic Design",
           "linkHref": "/graphic-design"
         },
         {
           "title": "Social media",
           "body": "Planned, produced and managed, so your brand stays familiar until people are ready to buy.",
-          "linkLabel": "Social media",
+          "linkLabel": "Social Media",
           "linkHref": "/social-media"
         },
         {
           "title": "Video production",
           "body": "Concept, script, shoot and edit: brand films, testimonials, explainers and short-form cuts.",
-          "linkLabel": "Video production",
+          "linkLabel": "Video Production",
           "linkHref": "/video-production"
         },
         {
@@ -86,7 +86,7 @@
         {
           "title": "Marketing automation",
           "body": "CRM, pipelines and follow-up inside HighLevel, so every lead is routed, tagged and tracked.",
-          "linkLabel": "Marketing automation",
+          "linkLabel": "Marketing Automation",
           "linkHref": "/marketing-automation"
         }
       ]
@@ -119,27 +119,27 @@
           "eyebrow": "Coworking and ecosystem",
           "title": "Vertical Life",
           "body": "Search campaigns for the Atrium, conversion tracking, event templates and a new website the team can edit in place.",
-          "linkLabel": "Read the case study",
+          "linkLabel": "Read the Case Study",
           "linkHref": "/work#vertical-life"
         },
         {
           "eyebrow": "Higher education",
           "title": "Vertical Immersive",
           "body": "Open house campaigns, ad lead forms wired straight into HighLevel, and a rebuilt website.",
-          "linkLabel": "Read the case study",
+          "linkLabel": "Read the Case Study",
           "linkHref": "/work#vertical-immersive"
         },
         {
           "eyebrow": "Financial planning",
           "title": "Vertical Wealth",
           "body": "A campaign playbook built on five client personas, compliance-safe content rules and a new website.",
-          "linkLabel": "Read the case study",
+          "linkLabel": "Read the Case Study",
           "linkHref": "/work#vertical-wealth"
         }
       ],
       "buttons": [
         {
-          "label": "See all work",
+          "label": "See All Work",
           "href": "/work",
           "style": "secondary"
         }
@@ -158,7 +158,7 @@
       ],
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         }
@@ -186,7 +186,7 @@
       ],
       "buttons": [
         {
-          "label": "Meet the team",
+          "label": "Meet the Team",
           "href": "/team",
           "style": "secondary"
         }
@@ -238,7 +238,7 @@
       "body": "Tell us about your organization. Gabe will set up a short call to talk it through.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },

@@ -9,12 +9,12 @@
       "body": "We build your CRM, pipelines and automations inside HighLevel. Every lead gets routed, tagged, followed up with and tracked.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
         {
-          "label": "All services",
+          "label": "All Services",
           "href": "/services",
           "style": "secondary"
         }
@@ -102,7 +102,7 @@
       "body": "Tell us how leads reach you today. Gabe will set up a short call to talk it through.",
       "buttons": [
         {
-          "label": "Book a call",
+          "label": "Book a Call",
           "href": "/book-a-call",
           "style": "primary"
         },
