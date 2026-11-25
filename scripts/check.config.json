@@ -1,0 +1,21 @@
+{
+  "_note": "Site-only banned phrases and known exceptions for scripts/check.mjs. Family-wide rules live in check.mjs.",
+  "banned": [
+    "consistency beats brilliance",
+    "grow god.s kingdom",
+    "game.changer",
+    "\\belevate",
+    "seamless",
+    "synergy",
+    "cutting.edge",
+    "world.class",
+    "\\$\\d"
+  ],
+  "allow": [
+    {
+      "page": "terms-of-service.html",
+      "pattern": "\\$\\d",
+      "why": "Liability cap in the terms"
+    }
+  ]
+}

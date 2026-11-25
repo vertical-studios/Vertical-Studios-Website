@@ -2,7 +2,7 @@
 
 Astro static site with the TinaCMS editor (click-to-edit), deployed on Vercel. Content lives in `/content` as JSON (pages, settings) and Markdown (Insights posts). Every edit, by a person or by AI, is a Git commit, so anything can be rolled back.
 
-The design and structure follow the Vertical Studios Site Foundation board, signed off Nov 18, 2026: white ground, Studios red #B5232F for accents (the red on every Studios brief), yellow buttons, Vertical Life's grainy metallic black on dark bands, the family's 8px hard shadow on cards and buttons, square corners, work samples in color and people in black and white, Bebas Neue Pro (mixed case, -0.02em tracking, balanced scale) for headlines up to six words, Roboto body at 18px. The story leads with the mission (senior-led, apprentice-powered); every page ends at Book a call.
+The design and structure follow the Vertical Studios Site Foundation board, signed off Nov 18, 2026: white ground, Studios red #B5232F for accents (the red on every Studios brief), yellow buttons, Vertical Life's grainy metallic black on dark bands, the family's 8px hard shadow on cards, square corners, work samples in color and people in black and white, Bebas Neue Pro (mixed case, -0.02em tracking, balanced scale) for headlines up to six words, Roboto body at 18px. The story leads with the mission (senior-led, apprentice-powered); every page ends at Book a call.
 
 ## Rules for anyone editing
 
